@@ -25,7 +25,7 @@ SharduinoPinController establishes a seamless link between C# applications and A
 Run the C# application and select the appropriate COM port for your Arduino. Use the interface to control the pins on your Arduino board.
 
 ## Contributing
-Contributions to SharduinoPinController are welcome. Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
+You can contact me or let a comment for contributions or questions
 
 ## License
 Take a look at license section on the proyect
